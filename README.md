@@ -1,6 +1,8 @@
 
 # IBM HR Analytics Employee Attrition Analysis
 
+> This README was generated with ChatGPT
+
 ## Overview
 This project contains an exploratory data analysis of the *IBM HR Analytics Employee Attrition & Performance* dataset available on Kaggle. The analysis is performed using Python's Pandas library, focusing on understanding the factors that contribute to employee attrition. This project was conducted as a part of a didactic exercise in collaboration with Hashtag Treinamentos, aimed at learning and applying data manipulation and visualization techniques in Python.
 
@@ -34,7 +36,7 @@ jupyter notebook ibm_attrition_analysis.ipynb
 ```
 
 ## Author
-- **[Your Name]** - As part of a didactic exercise in data science training with Hashtag Treinamentos.
+- **Renan Andrade** - As part of a didactic exercise in data science training with Hashtag Treinamentos.
 
 ## Acknowledgements
 - **Hashtag Treinamentos** - For providing the educational environment and training to undertake this project.
